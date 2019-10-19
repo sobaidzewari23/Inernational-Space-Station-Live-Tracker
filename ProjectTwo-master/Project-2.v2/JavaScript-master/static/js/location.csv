@@ -1,0 +1,121 @@
+Date,Visible,Max_Height,Appears,Disappears,City 
+"Wed Oct 2, 8:01 PM",2 min,12 degrees ,10 degrees above N,11 degrees above NNE,Chantilly 
+"Thu Oct 3, 7:13 PM",1 min,10 degrees ,10 degrees above N,10 degrees above NNE,Chantilly 
+"Thu Oct 3, 8:48 PM",1 min,19 degrees ,10 degrees above NNW,19 degrees above NNW,Chantilly 
+"Fri Oct 4, 8:00 PM",3 min,19 degrees ,10 degrees above NNW,19 degrees above NNE,Chantilly 
+"Sat Oct 5, 7:12 PM",4 min,15 degrees ,10 degrees above NNW,10 degrees above NE,Chantilly 
+"Sat Oct 5, 8:48 PM",1 min,28 degrees ,13 degrees above NW,28 degrees above NW,Chantilly 
+"Sun Oct 6, 7:59 PM",4 min,41 degrees ,10 degrees above NW,37 degrees above ENE,Chantilly 
+"Mon Oct 7, 7:11 PM",6 min,26 degrees ,10 degrees above NNW,10 degrees above E,Chantilly 
+"Mon Oct 7, 8:49 PM",< 1 min,26 degrees ,20 degrees above W,26 degrees above W,Chantilly 
+"Tue Oct 8, 8:00 PM",3 min,66 degrees ,23 degrees above WNW,36 degrees above SSE,Chantilly 
+"Wed Oct 9, 7:11 PM",6 min,66 degrees ,10 degrees above NW,11 degrees above ESE,Chantilly 
+"Wed Oct 9, 8:49 PM",1 min,11 degrees ,10 degrees above WSW,11 degrees above SW,Chantilly 
+"Thu Oct 10, 8:01 PM",3 min,21 degrees ,20 degrees above WSW,10 degrees above S,Chantilly 
+"Fri Oct 11, 7:13 PM",3 min,38 degrees ,36 degrees above WSW,11 degrees above SSE,Chantilly 
+"Sun Oct 13, 7:13 PM",1 min,12 degrees ,12 degrees above SW,10 degrees above SSW,Chantilly 
+"Wed Oct 2, 8:01 PM",2 min,12 degrees ,10 degrees above N,11 degrees above NNE,Burke 
+"Thu Oct 3, 7:13 PM",< 1 min,10 degrees ,10 degrees above N,10 degrees above NNE,Burke 
+"Thu Oct 3, 8:48 PM",1 min,19 degrees ,10 degrees above NNW,19 degrees above NNW,Burke 
+"Fri Oct 4, 8:00 PM",3 min,19 degrees ,10 degrees above NNW,19 degrees above NNE,Burke 
+"Sat Oct 5, 7:12 PM",4 min,14 degrees ,10 degrees above NNW,10 degrees above NE,Burke 
+"Sat Oct 5, 8:48 PM",1 min,28 degrees ,13 degrees above NW,28 degrees above NW,Burke 
+"Sun Oct 6, 8:00 PM",4 min,41 degrees ,10 degrees above NW,37 degrees above ENE,Burke 
+"Mon Oct 7, 7:11 PM",6 min,26 degrees ,10 degrees above NNW,10 degrees above E,Burke 
+"Mon Oct 7, 8:49 PM",< 1 min,26 degrees ,19 degrees above W,26 degrees above W,Burke 
+"Tue Oct 8, 8:00 PM",3 min,66 degrees ,23 degrees above WNW,36 degrees above SSE,Burke 
+"Wed Oct 9, 7:11 PM",6 min,66 degrees ,10 degrees above NW,11 degrees above ESE,Burke 
+"Wed Oct 9, 8:49 PM",1 min,11 degrees ,10 degrees above WSW,11 degrees above SW,Burke 
+"Thu Oct 10, 8:01 PM",3 min,21 degrees ,20 degrees above WSW,10 degrees above S,Burke 
+"Fri Oct 11, 7:13 PM",3 min,38 degrees ,36 degrees above WSW,11 degrees above SSE,Burke 
+"Sun Oct 13, 7:13 PM",1 min,12 degrees ,12 degrees above SW,10 degrees above SSW,Burke 
+"Wed Oct 2, 8:01 PM",2 min,12 degrees ,10 degrees above N,11 degrees above NNE,Springfield 
+"Thu Oct 3, 7:13 PM",< 1 min,10 degrees ,10 degrees above N,10 degrees above NNE,Springfield 
+"Thu Oct 3, 8:48 PM",1 min,19 degrees ,10 degrees above NNW,19 degrees above NNW,Springfield 
+"Fri Oct 4, 8:00 PM",3 min,19 degrees ,10 degrees above NNW,19 degrees above NNE,Springfield 
+"Sat Oct 5, 7:12 PM",4 min,14 degrees ,10 degrees above NNW,10 degrees above NE,Springfield 
+"Sat Oct 5, 8:48 PM",1 min,28 degrees ,13 degrees above NW,28 degrees above NW,Springfield 
+"Sun Oct 6, 8:00 PM",4 min,41 degrees ,10 degrees above NW,37 degrees above ENE,Springfield 
+"Mon Oct 7, 7:11 PM",6 min,26 degrees ,10 degrees above NNW,10 degrees above E,Springfield 
+"Mon Oct 7, 8:49 PM",< 1 min,26 degrees ,19 degrees above W,26 degrees above W,Springfield 
+"Tue Oct 8, 8:00 PM",3 min,66 degrees ,23 degrees above WNW,36 degrees above SSE,Springfield 
+"Wed Oct 9, 7:11 PM",6 min,66 degrees ,10 degrees above NW,11 degrees above ESE,Springfield 
+"Wed Oct 9, 8:49 PM",1 min,11 degrees ,10 degrees above WSW,11 degrees above SW,Springfield 
+"Thu Oct 10, 8:01 PM",3 min,21 degrees ,20 degrees above WSW,10 degrees above S,Springfield 
+"Fri Oct 11, 7:13 PM",3 min,38 degrees ,35 degrees above WSW,11 degrees above SSE,Springfield 
+"Sun Oct 13, 7:13 PM",1 min,12 degrees ,12 degrees above SW,10 degrees above SSW,Springfield 
+"Wed Oct 2, 8:01 PM",2 min,12 degrees ,10 degrees above N,12 degrees above NNE,Reston 
+"Thu Oct 3, 7:13 PM",1 min,10 degrees ,10 degrees above N,10 degrees above NNE,Reston 
+"Thu Oct 3, 8:48 PM",1 min,19 degrees ,10 degrees above NNW,19 degrees above NNW,Reston 
+"Fri Oct 4, 8:00 PM",3 min,20 degrees ,10 degrees above NNW,19 degrees above NE,Reston 
+"Sat Oct 5, 7:12 PM",4 min,15 degrees ,10 degrees above NNW,10 degrees above NE,Reston 
+"Sat Oct 5, 8:48 PM",1 min,28 degrees ,13 degrees above NW,28 degrees above NW,Reston 
+"Sun Oct 6, 7:59 PM",4 min,42 degrees ,10 degrees above NW,37 degrees above ENE,Reston 
+"Mon Oct 7, 7:11 PM",6 min,27 degrees ,10 degrees above NNW,10 degrees above E,Reston 
+"Mon Oct 7, 8:49 PM",< 1 min,26 degrees ,19 degrees above W,26 degrees above W,Reston 
+"Tue Oct 8, 8:00 PM",3 min,65 degrees ,23 degrees above WNW,36 degrees above SSE,Reston 
+"Wed Oct 9, 7:11 PM",6 min,67 degrees ,10 degrees above NW,11 degrees above ESE,Reston 
+"Wed Oct 9, 8:49 PM",1 min,11 degrees ,10 degrees above WSW,11 degrees above SW,Reston 
+"Thu Oct 10, 8:01 PM",3 min,20 degrees ,20 degrees above WSW,11 degrees above S,Reston 
+"Fri Oct 11, 7:13 PM",3 min,37 degrees ,35 degrees above WSW,11 degrees above SSE,Reston 
+"Sun Oct 13, 7:13 PM",1 min,12 degrees ,12 degrees above SW,10 degrees above SSW,Reston 
+"Wed Oct 2, 8:01 PM",2 min,12 degrees ,10 degrees above N,11 degrees above NNE,Arlington 
+"Thu Oct 3, 7:13 PM",1 min,10 degrees ,10 degrees above N,10 degrees above NNE,Arlington 
+"Thu Oct 3, 8:48 PM",1 min,19 degrees ,10 degrees above NNW,19 degrees above NNW,Arlington 
+"Fri Oct 4, 8:00 PM",3 min,20 degrees ,10 degrees above NNW,20 degrees above NNE,Arlington 
+"Sat Oct 5, 7:12 PM",4 min,15 degrees ,10 degrees above NNW,10 degrees above NE,Arlington 
+"Sat Oct 5, 8:48 PM",1 min,28 degrees ,13 degrees above NW,28 degrees above NW,Arlington 
+"Sun Oct 6, 8:00 PM",4 min,42 degrees ,10 degrees above NW,38 degrees above ENE,Arlington 
+"Mon Oct 7, 7:11 PM",6 min,27 degrees ,10 degrees above NNW,10 degrees above E,Arlington 
+"Mon Oct 7, 8:49 PM",< 1 min,26 degrees ,19 degrees above W,26 degrees above W,Arlington 
+"Tue Oct 8, 8:00 PM",3 min,64 degrees ,22 degrees above WNW,36 degrees above SSE,Arlington 
+"Wed Oct 9, 7:11 PM",6 min,68 degrees ,10 degrees above NW,11 degrees above ESE,Arlington 
+"Wed Oct 9, 8:49 PM",1 min,11 degrees ,10 degrees above WSW,11 degrees above SW,Arlington 
+"Thu Oct 10, 8:01 PM",3 min,20 degrees ,20 degrees above WSW,11 degrees above S,Arlington 
+"Fri Oct 11, 7:13 PM",3 min,36 degrees ,34 degrees above WSW,11 degrees above SSE,Arlington 
+"Sun Oct 13, 7:13 PM",1 min,12 degrees ,12 degrees above SW,10 degrees above SSW,Arlington 
+"Wed Oct 2, 8:01 PM",2 min,12 degrees ,10 degrees above N,11 degrees above NNE,Washinton DC 
+"Thu Oct 3, 7:13 PM",1 min,10 degrees ,10 degrees above N,10 degrees above NNE,Washinton DC 
+"Thu Oct 3, 8:48 PM",1 min,19 degrees ,10 degrees above NNW,19 degrees above NNW,Washinton DC 
+"Fri Oct 4, 8:00 PM",3 min,20 degrees ,10 degrees above NNW,20 degrees above NNE,Washinton DC 
+"Sat Oct 5, 7:12 PM",4 min,15 degrees ,10 degrees above NNW,10 degrees above NE,Washinton DC 
+"Sat Oct 5, 8:48 PM",1 min,28 degrees ,13 degrees above NW,28 degrees above NW,Washinton DC 
+"Sun Oct 6, 8:00 PM",4 min,42 degrees ,10 degrees above NW,38 degrees above ENE,Washinton DC 
+"Mon Oct 7, 7:11 PM",6 min,27 degrees ,10 degrees above NNW,10 degrees above E,Washinton DC 
+"Mon Oct 7, 8:49 PM",< 1 min,26 degrees ,19 degrees above W,26 degrees above W,Washinton DC 
+"Tue Oct 8, 8:01 PM",3 min,63 degrees ,27 degrees above WNW,36 degrees above SSE,Washinton DC 
+"Wed Oct 9, 7:11 PM",6 min,69 degrees ,10 degrees above NW,11 degrees above ESE,Washinton DC 
+"Wed Oct 9, 8:49 PM",1 min,11 degrees ,10 degrees above WSW,11 degrees above SW,Washinton DC 
+"Thu Oct 10, 8:01 PM",3 min,20 degrees ,18 degrees above WSW,11 degrees above S,Washinton DC 
+"Fri Oct 11, 7:13 PM",3 min,36 degrees ,34 degrees above WSW,11 degrees above SSE,Washinton DC 
+"Sun Oct 13, 7:13 PM",1 min,12 degrees ,12 degrees above SW,10 degrees above SSW,Washinton DC 
+"Wed Oct 2, 8:01 PM",2 min,12 degrees ,10 degrees above N,12 degrees above NNE,Bethesda 
+"Thu Oct 3, 7:13 PM",1 min,10 degrees ,10 degrees above N,10 degrees above NNE,Bethesda 
+"Thu Oct 3, 8:48 PM",1 min,19 degrees ,10 degrees above NNW,19 degrees above NNW,Bethesda 
+"Fri Oct 4, 8:00 PM",3 min,20 degrees ,10 degrees above NNW,20 degrees above NNE,Bethesda 
+"Sat Oct 5, 7:12 PM",4 min,15 degrees ,11 degrees above NNW,10 degrees above NE,Bethesda 
+"Sat Oct 5, 8:48 PM",1 min,28 degrees ,13 degrees above NW,28 degrees above NW,Bethesda 
+"Sun Oct 6, 7:59 PM",4 min,42 degrees ,10 degrees above NW,38 degrees above ENE,Bethesda 
+"Mon Oct 7, 7:11 PM",6 min,27 degrees ,10 degrees above NNW,10 degrees above E,Bethesda 
+"Mon Oct 7, 8:49 PM",< 1 min,26 degrees ,19 degrees above W,26 degrees above W,Bethesda 
+"Tue Oct 8, 8:01 PM",3 min,63 degrees ,27 degrees above WNW,36 degrees above SSE,Bethesda 
+"Wed Oct 9, 7:11 PM",6 min,69 degrees ,10 degrees above NW,11 degrees above ESE,Bethesda 
+"Wed Oct 9, 8:49 PM",1 min,11 degrees ,10 degrees above WSW,11 degrees above SW,Bethesda 
+"Thu Oct 10, 8:01 PM",3 min,20 degrees ,18 degrees above WSW,11 degrees above S,Bethesda 
+"Fri Oct 11, 7:13 PM",3 min,36 degrees ,34 degrees above WSW,11 degrees above SSE,Bethesda 
+"Sun Oct 13, 7:13 PM",1 min,12 degrees ,12 degrees above SW,10 degrees above SSW,Bethesda 
+"Wed Oct 2, 8:01 PM",2 min,12 degrees ,10 degrees above N,11 degrees above NNE,Herndon 
+"Thu Oct 3, 7:13 PM",1 min,10 degrees ,10 degrees above N,10 degrees above NNE,Herndon 
+"Thu Oct 3, 8:48 PM",1 min,19 degrees ,10 degrees above NNW,19 degrees above NNW,Herndon 
+"Fri Oct 4, 8:00 PM",3 min,20 degrees ,10 degrees above NNW,19 degrees above NE,Herndon 
+"Sat Oct 5, 7:12 PM",4 min,15 degrees ,10 degrees above NNW,10 degrees above NE,Herndon 
+"Sat Oct 5, 8:48 PM",1 min,28 degrees ,13 degrees above NW,28 degrees above NW,Herndon 
+"Sun Oct 6, 7:59 PM",4 min,41 degrees ,10 degrees above NW,37 degrees above ENE,Herndon 
+"Mon Oct 7, 7:11 PM",6 min,27 degrees ,10 degrees above NNW,10 degrees above E,Herndon 
+"Mon Oct 7, 8:49 PM",< 1 min,26 degrees ,19 degrees above W,26 degrees above W,Herndon 
+"Tue Oct 8, 8:00 PM",3 min,65 degrees ,23 degrees above WNW,36 degrees above SSE,Herndon 
+"Wed Oct 9, 7:11 PM",6 min,67 degrees ,10 degrees above NW,11 degrees above ESE,Herndon 
+"Wed Oct 9, 8:49 PM",1 min,11 degrees ,10 degrees above WSW,11 degrees above SW,Herndon 
+"Thu Oct 10, 8:01 PM",3 min,20 degrees ,20 degrees above WSW,11 degrees above S,Herndon 
+"Fri Oct 11, 7:13 PM",3 min,37 degrees ,35 degrees above WSW,11 degrees above SSE,Herndon 
+"Sun Oct 13, 7:13 PM",1 min,12 degrees ,12 degrees above SW,10 degrees above SSW,Herndon 

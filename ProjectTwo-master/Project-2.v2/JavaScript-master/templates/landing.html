@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body style="background-color:rgb(18, 19, 19);">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>International Space Station</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans|Titillium+Web" rel="stylesheet">
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/js/bootstrap.min.js'></script>
+    <link rel="stylesheet" href="intro.css">
+
+
+</head>
+<!-- HOME -->
+<header>
+       <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop" controls width="1400" style="display:block; margin:0 auto;">
+               <source src="https://dlmultimedia.esa.int/download/public/videos/2017/09/030/1709_030_AR_EN.mp4" type="video/mp4">
+               </video>
+                       </header>
+<header>
+     
+                <!-- <div class="overlay"></div>
+                    <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                        <source src="https://dlmultimedia.esa.int/download/public/videos/2019/09/041/1909_041_AR_EN.mp4" type="video/mp4">
+                    </video>
+                <div class="container h-100">
+            <div class="d-flex h-100 text-center align-items-center"> -->
+        </div>
+    </section>
+</header>
+
+<body>
+
+        <img src="../images/iss2.jpeg" id="bg" alt="">
+        <div id="bg">
+                <img src="images/iss2.jpeg" alt="">
+              </div>
+    <nav class="navbar navbar-default navbar-inverse navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false"
+                    aria-controls="navbar">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a id="home" class="active navbar-brand brand_color" href="index3.html"></a>
+            </div>
+            <div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Category
+                                <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu drop_down_color">
+                                <li>
+                                    <a href="{{ url_for('live') }}">ISS Live</a>
+                                </li>
+                                <li>
+                                    <a href="{{ url_for('index') }}">ISS Data</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <!-- <li>
+                            <a href="index.html">ISS Tracker</a>
+                            </li>
+                            <li>
+                            <a href="index2.html">ISS Live</a>
+                        </li> -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!--End "nav bar"-->
+    <div class="container-fluid">
+        <div class="page-header">
+            <div class="jumbotron">
+                <header>
+                        <div class="hero text-center">
+                                <h1>International Space Station</h1>
+                                <p>=====================================================================</a> </p>
+                                <p></p>
+                                <p></p>
+                                <p></p>
+                              </div>
+                    <div class="row">
+                        <div class="left col-lg-8 col-md-8 col-xs-12">
+
+                            <h2>Project Overview</h2>
+
+
+                        <div="text-left"> 
+                                <br><ul type="square">          
+                                        <li>For our project we created a website that displays sighting opportunities of the International Space Station (ISS) in cities near where we live. Additionally, created a live tracker that shows where the ISS is at any given moment around the world, and allows for the users interactively explore the map
+                                            Live Tracker:
+                                            We utilized the Fetch() API function to get the ISS lat/lon data into html directly. The data was fetched from an open API that contained more data than we needed. We had write code specify extracting the lat/lon data for plotting. Consideration had to be made due to the API having a refresh rate restriction of 1 second. The acquired lat/lon were plotted on a map using Leaflet. The life ISS marker was put on the map utilizing Leaflet Marker function, which was fed the live lat/lon data.
+                                            Live Data and Time:
+                                            We used Moment.js, a free and open source JavaScript library, to import a JavaScript date object directly into our html. For the live time we used JavaScript Data () to return a live clock instance of a single moment in time in a platform-independent format.
+                                        </li>  
+<br>                               
+<br>                            
+<br> 
+<br>Requirements Satisfied:
+<ul></ul></ul>
+                        <br><ul type="square">          
+                                <li>A Python Flask–powered RESTful API, HTML/CSS, JavaScript, and one database (Data Page)</li>
+                                <li>A custom "creative" D3.js project (live ISS tracker)</li>
+                                <li>A A JavaScript library not covered in class (moments, js date)</li>
+                                <li>More than 100 records (~120)</li>
+                                <li>User-driven interaction (drop-down menu, live ISS tracker includes interactive map)</li>
+                                <li>More than 3 views (Home page, live tracker page, data page)</li>
+                        <br></ul>                                
+                            </div>  
+
+                            <br>
+                            <ul></ul></ul>
+                                                    <br><ul type="square">          
+                                                            <li>Group Members:
+                                                                    Sania Ahmad, Sayed Zewari and Harris Nawzadi.</li>
+                                                  
+                                                    <br></ul>
+                                                    <br>    
+                                                            Sources:
+                                                            <li>https://www.nasa.gov</li>
+                                                            <li>https://www.data.gov</li>
+                                                            <li>https://spotthestation.nasa.gov/sightings/index.cfm</li>
+                                                            <br>                                  
+                                                        </div> 
+                        </div>
+                        <div class="clearfix"></div>
+                </header>
+
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</body>
+<!-- Footer-->
+<div class="container-fluid"> 
+        <footer style="background-color: lightblue">
+            </footer>
+</div>
+</html>

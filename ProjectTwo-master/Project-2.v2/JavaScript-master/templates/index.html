@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <body style="background-color:rgb(18, 19, 19);">
+<head>
+  <meta charset="utf-8">
+  <title>ISS Tracking</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+  <h1 class="foo"></h1>
+  <div id="curr_time"></div>
+
+  <div class="wrapper">
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="{{ url_for('landing') }}">Home
+      
+          </a>
+        </div>
+      </div>
+    </nav>
+    <div class="hero text-center">
+      <h1>ISS Over Your Home</h1>
+      <p>To view Live ISS map please click here: <a href="{{ url_for('live') }}">ISS LIVE</a> </p>
+      <p></p>
+      <p></p>
+      <p></p>
+    </div>
+    <div class="container">
+      <div class="row margin-top-50">
+        <div class="col-md-2">
+          <aside class="filters">
+            <div class="panel panel-default">
+              <div class="panel-heading">Find Your City!</div>
+              <div class="panel-body">
+                <form>
+                  <div class="form-group">
+                    <ul class="list-group" id="filters">
+                      <li class="filter list-group-item">
+                        <label for="City">Enter a City</label>
+                        <input class="form-control" id="City" type="text" placeholder="City Name">
+                      </li>
+                    </ul>
+                  </div>
+                  <button id="filter-btn" type="submit" class="btn btn-default">Filter Table</button>
+                </form>
+              </div>
+            </div>
+          </aside>
+        </div>
+        <div class="col-md-10">
+          <div id="table-area" class="">
+            <table id="ufo-table" class="table table-striped">
+              <thead>
+                <tr>
+                  <th class="table-head">Date</th>
+                  <th class="table-head">Visible</th>
+                  <th class="table-head">Max_Height</th>
+                  <th class="table-head">Appears</th>
+                  <th class="table-head">Disappears</th>
+                  <th class="table-head">City</th>                  
+                </tr>
+              </thead>
+              <tbody id="table-content"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <span class="bottom">ISS Over Your House</span>
+    </footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  <script src="../static/js/app.js"></script>
+</body>
+
+</html>
