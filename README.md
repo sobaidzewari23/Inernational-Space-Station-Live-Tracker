@@ -1,4 +1,4 @@
-# ProjectTwo
+# Inernational Space Station Live Tracker
 For our project we created a website that displays sighting opportunities of the International Space Station (ISS) in cities near where we live. Additionally, created a live tracker that shows where the ISS is at any given moment around the world, and allows for the users interactively explore the map
 
 Live Tracker:
